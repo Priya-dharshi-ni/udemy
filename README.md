@@ -22,7 +22,7 @@ This project was created to enhance my front-end development skills, focusing on
 
 1. Clone the repository:  
    ```bash
-   git clone https://priya-dharshi-ni.github.io/Udemy-Clone/
+   git clone https://priya-dharshi-ni.github.io/udemy/
    ```
 2. Open the `index.html` file in your browser to explore the page.
 
